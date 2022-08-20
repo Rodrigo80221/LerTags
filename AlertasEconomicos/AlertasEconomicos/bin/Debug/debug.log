@@ -1,0 +1,402 @@
+[0107/065421.139:ERROR:component_installer.cc(342)] Failed to read manifest or verify installation for Widevine Content Decryption Module (C:\Users\rodrigo.rosa\AppData\Local\CEF\User Data\WidevineCdm\4.10.2391.0).: O sistema não pode encontrar o caminho especificado. (0x3)
+[0107/065422.778:ERROR:ssl_client_socket_impl.cc(983)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0107/065422.826:ERROR:ssl_client_socket_impl.cc(983)] handshake failed; returned -1, SSL error code 1, net_error -202
+[0107/065422.895:INFO:CONSOLE(10)] "Failed to execute 'write' on 'Document': It isn't possible to write into a document from an asynchronously-loaded external script unless it is explicitly opened.", source: https://securepubads.g.doubleclick.net/tag/js/gpt.js (10)
+[0107/065423.258:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836492 [5,12]
+[0107/065424.147:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836492 [5,12]
+[0107/065424.148:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836492 [5,12]
+[0107/065424.148:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836492 [5,12]
+[0107/065424.148:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836492 [5,12]
+[0107/065424.151:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836495 [5,15]
+[0107/065424.151:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836495 [5,15]
+[0107/065424.152:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836495 [5,15]
+[0107/065424.152:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836495 [5,15]
+[0107/065424.322:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803791 [6,15]
+[0107/065425.012:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803791 [6,15]
+[0107/065425.012:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803791 [6,15]
+[0107/065425.012:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803791 [6,15]
+[0107/065425.012:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803791 [6,15]
+[0107/065425.043:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771087 [7,15]
+[0107/065426.062:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738385 [8,17]
+[0107/065426.075:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836501 [5,21]
+[0107/065426.077:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836501 [5,21]
+[0107/065426.079:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836501 [5,21]
+[0107/065426.079:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836501 [5,21]
+[0107/065426.279:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738385 [8,17]
+[0107/065426.280:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738385 [8,17]
+[0107/065426.280:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738385 [8,17]
+[0107/065426.281:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738385 [8,17]
+[0107/065621.360:ERROR:gpu_init.cc(457)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0107/065757.790:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[0107/065758.096:INFO:CONSOLE(4019)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/15c06292/jsbin/desktop_polymer.vflset/desktop_polymer.js (4019)
+[0107/065758.639:WARNING:browser_info.cc(298)] Returning a speculative frame for 21474836485 [5,5]
+[0107/065758.698:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/' in a frame because it set 'X-Frame-Options' to 'deny'.", source: chrome-error://chromewebdata/ (0)
+[0107/065802.197:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/c/CNNbrasil (0)
+[0107/070323.556:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803781 [6,5]
+[0107/070323.834:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803781 [6,5]
+[0107/070323.862:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/' in a frame because it set 'X-Frame-Options' to 'deny'.", source: chrome-error://chromewebdata/ (0)
+[0107/070323.865:INFO:CONSOLE(4019)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/15c06292/jsbin/desktop_polymer.vflset/desktop_polymer.js (4019)
+[0107/070323.934:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0107/070325.154:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0107/070325.154:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0107/070325.156:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0107/070325.158:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0107/070325.462:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0107/070325.623:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0107/070325.624:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0107/070325.624:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0107/070325.627:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0107/070325.988:INFO:CONSOLE(2)] "stream: https://stream304.forexpros.com:443", source: https://streamjs.investing.com/tools/fxindex2.js (2)
+[0107/070326.586:INFO:CONSOLE(1403)] "curTime Fri Jan 07 2022 07:03:00 GMT-0300 (GMT-03:00)timeZoneCurDate Fri Jan 07 2022 10:03:00 GMT-0300 (GMT-03:00) offset 10800000", source: https://sslecal2.forexprostools.com/view/ecaltool_v2.js (1403)
+[0107/070327.106:INFO:CONSOLE(27)] "Opening transport: websocket  url:https://stream304.forexpros.com:443/echo/543/no2xe5fs  RTO:3324", source: https://cdnjs.cloudflare.com/ajax/libs/sockjs-client/0.3.4/sockjs.min.js (27)
+[0107/070328.048:INFO:CONSOLE(58)] "open-fx", source: https://streamjs.investing.com/tools/fxindex2.js (58)
+[0107/070328.048:INFO:CONSOLE(62)] "event-eu-441472:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070328.050:INFO:CONSOLE(62)] "event-eu-442575:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070328.050:INFO:CONSOLE(62)] "event-eu-443029:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070328.051:INFO:CONSOLE(62)] "event-eu-442579:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070328.051:INFO:CONSOLE(62)] "event-eu-442628:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070328.052:INFO:CONSOLE(62)] "event-eu-442636:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070328.052:INFO:CONSOLE(62)] "event-eu-442629:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070328.052:INFO:CONSOLE(62)] "event-eu-442637:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070328.052:INFO:CONSOLE(62)] "event-eu-442626:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070328.052:INFO:CONSOLE(62)] "event-eu-442635:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070328.052:INFO:CONSOLE(62)] "event-eu-443653:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070328.052:INFO:CONSOLE(62)] "event-eu-443654:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070328.052:INFO:CONSOLE(62)] "event-eu-443317:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070328.052:INFO:CONSOLE(62)] "event-eu-443318:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070328.052:INFO:CONSOLE(62)] "event-eu-443471:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070328.053:INFO:CONSOLE(62)] "event-eu-443469:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070328.053:INFO:CONSOLE(62)] "event-eu-443461:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070328.053:INFO:CONSOLE(62)] "event-eu-443459:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070328.053:INFO:CONSOLE(62)] "event-eu-443462:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070328.053:INFO:CONSOLE(62)] "event-eu-443466:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070328.059:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/c/CNNbrasil (0)
+[0107/070421.345:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803781 [6,5]
+[0107/070421.620:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803781 [6,5]
+[0107/070421.641:INFO:CONSOLE(4019)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/15c06292/jsbin/desktop_polymer.vflset/desktop_polymer.js (4019)
+[0107/070421.653:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/' in a frame because it set 'X-Frame-Options' to 'deny'.", source: chrome-error://chromewebdata/ (0)
+[0107/070421.751:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0107/070422.967:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0107/070422.967:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0107/070422.968:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0107/070422.968:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0107/070423.248:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0107/070423.472:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0107/070423.472:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0107/070423.475:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0107/070423.476:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0107/070423.823:INFO:CONSOLE(2)] "stream: https://stream304.forexpros.com:443", source: https://streamjs.investing.com/tools/fxindex2.js (2)
+[0107/070424.488:INFO:CONSOLE(1403)] "curTime Fri Jan 07 2022 07:04:00 GMT-0300 (GMT-03:00)timeZoneCurDate Fri Jan 07 2022 10:04:00 GMT-0300 (GMT-03:00) offset 10800000", source: https://sslecal2.forexprostools.com/view/ecaltool_v2.js (1403)
+[0107/070424.764:INFO:CONSOLE(27)] "Opening transport: websocket  url:https://stream304.forexpros.com:443/echo/289/d5k0vz_n  RTO:2835", source: https://cdnjs.cloudflare.com/ajax/libs/sockjs-client/0.3.4/sockjs.min.js (27)
+[0107/070425.689:INFO:CONSOLE(58)] "open-fx", source: https://streamjs.investing.com/tools/fxindex2.js (58)
+[0107/070425.689:INFO:CONSOLE(62)] "event-eu-441472:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070425.689:INFO:CONSOLE(62)] "event-eu-443029:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070425.689:INFO:CONSOLE(62)] "event-eu-442575:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070425.689:INFO:CONSOLE(62)] "event-eu-442579:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070425.689:INFO:CONSOLE(62)] "event-eu-442628:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070425.690:INFO:CONSOLE(62)] "event-eu-442636:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070425.690:INFO:CONSOLE(62)] "event-eu-442629:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070425.690:INFO:CONSOLE(62)] "event-eu-442637:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070425.690:INFO:CONSOLE(62)] "event-eu-442626:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070425.690:INFO:CONSOLE(62)] "event-eu-442635:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070425.690:INFO:CONSOLE(62)] "event-eu-443653:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070425.690:INFO:CONSOLE(62)] "event-eu-443654:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070425.690:INFO:CONSOLE(62)] "event-eu-443317:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070425.690:INFO:CONSOLE(62)] "event-eu-443318:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070425.690:INFO:CONSOLE(62)] "event-eu-443471:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070425.690:INFO:CONSOLE(62)] "event-eu-443469:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070425.690:INFO:CONSOLE(62)] "event-eu-443461:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070425.691:INFO:CONSOLE(62)] "event-eu-443459:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070425.691:INFO:CONSOLE(62)] "event-eu-443462:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070425.691:INFO:CONSOLE(62)] "event-eu-443466:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070425.982:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/c/CNNbrasil (0)
+[0107/070428.699:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/070431.930:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/070435.161:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/070438.398:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/070441.640:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/070444.881:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/070448.114:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/070451.349:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/070454.585:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/070457.826:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/070501.068:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/070502.499:INFO:CONSOLE(1403)] "curTime Fri Jan 07 2022 07:05:00 GMT-0300 (GMT-03:00)timeZoneCurDate Fri Jan 07 2022 10:05:00 GMT-0300 (GMT-03:00) offset 10800000", source: https://sslecal2.forexprostools.com/view/ecaltool_v2.js (1403)
+[0107/070504.304:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/070507.540:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/070510.777:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/070514.007:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/070515.352:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705672 [9,8]
+[0107/070515.462:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705672 [9,8]
+[0107/070515.462:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705672 [9,8]
+[0107/070515.463:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705672 [9,8]
+[0107/070515.463:WARNING:browser_info.cc(298)] Returning a speculative frame for 38654705672 [9,8]
+[0107/070517.241:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/070520.488:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/070523.729:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/070526.970:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/070530.200:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/070534.927:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803781 [6,5]
+[0107/070535.145:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0107/070535.219:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803781 [6,5]
+[0107/070535.233:INFO:CONSOLE(4019)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/15c06292/jsbin/desktop_polymer.vflset/desktop_polymer.js (4019)
+[0107/070535.246:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/' in a frame because it set 'X-Frame-Options' to 'deny'.", source: chrome-error://chromewebdata/ (0)
+[0107/070536.351:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0107/070536.352:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0107/070536.352:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0107/070536.352:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0107/070536.638:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0107/070536.792:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0107/070536.793:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0107/070536.793:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0107/070536.793:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0107/070537.179:INFO:CONSOLE(2)] "stream: https://stream305.forexpros.com:443", source: https://streamjs.investing.com/tools/fxindex2.js (2)
+[0107/070537.777:INFO:CONSOLE(1403)] "curTime Fri Jan 07 2022 07:05:00 GMT-0300 (GMT-03:00)timeZoneCurDate Fri Jan 07 2022 10:05:00 GMT-0300 (GMT-03:00) offset 10800000", source: https://sslecal2.forexprostools.com/view/ecaltool_v2.js (1403)
+[0107/070538.680:INFO:CONSOLE(27)] "Opening transport: websocket  url:https://stream305.forexpros.com:443/echo/604/hffl7eqw  RTO:4506", source: https://cdnjs.cloudflare.com/ajax/libs/sockjs-client/0.3.4/sockjs.min.js (27)
+[0107/070539.352:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/c/CNNbrasil (0)
+[0107/070539.613:INFO:CONSOLE(58)] "open-fx", source: https://streamjs.investing.com/tools/fxindex2.js (58)
+[0107/070539.613:INFO:CONSOLE(62)] "event-eu-441472:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070539.613:INFO:CONSOLE(62)] "event-eu-442575:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070539.613:INFO:CONSOLE(62)] "event-eu-443029:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070539.613:INFO:CONSOLE(62)] "event-eu-442579:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070539.613:INFO:CONSOLE(62)] "event-eu-442628:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070539.613:INFO:CONSOLE(62)] "event-eu-442636:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070539.614:INFO:CONSOLE(62)] "event-eu-442629:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070539.614:INFO:CONSOLE(62)] "event-eu-442637:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070539.614:INFO:CONSOLE(62)] "event-eu-442626:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070539.614:INFO:CONSOLE(62)] "event-eu-442635:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070539.614:INFO:CONSOLE(62)] "event-eu-443653:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070539.614:INFO:CONSOLE(62)] "event-eu-443654:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070539.614:INFO:CONSOLE(62)] "event-eu-443317:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070539.614:INFO:CONSOLE(62)] "event-eu-443318:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070539.614:INFO:CONSOLE(62)] "event-eu-443471:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070539.614:INFO:CONSOLE(62)] "event-eu-443469:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070539.614:INFO:CONSOLE(62)] "event-eu-443461:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070539.615:INFO:CONSOLE(62)] "event-eu-443459:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070539.615:INFO:CONSOLE(62)] "event-eu-443462:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070539.615:INFO:CONSOLE(62)] "event-eu-443466:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/070542.619:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/070545.852:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/070549.090:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/070552.323:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/070555.556:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/072140.655:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803781 [6,5]
+[0107/072140.930:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803781 [6,5]
+[0107/072140.959:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/' in a frame because it set 'X-Frame-Options' to 'deny'.", source: chrome-error://chromewebdata/ (0)
+[0107/072140.973:INFO:CONSOLE(4019)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/15c06292/jsbin/desktop_polymer.vflset/desktop_polymer.js (4019)
+[0107/072141.109:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0107/072142.302:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0107/072142.302:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0107/072142.303:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0107/072142.303:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0107/072142.578:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0107/072142.752:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0107/072142.753:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0107/072142.755:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0107/072142.757:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0107/072143.140:INFO:CONSOLE(2)] "stream: https://stream305.forexpros.com:443", source: https://streamjs.investing.com/tools/fxindex2.js (2)
+[0107/072143.702:INFO:CONSOLE(1403)] "curTime Fri Jan 07 2022 07:21:00 GMT-0300 (GMT-03:00)timeZoneCurDate Fri Jan 07 2022 10:21:00 GMT-0300 (GMT-03:00) offset 10800000", source: https://sslecal2.forexprostools.com/view/ecaltool_v2.js (1403)
+[0107/072144.083:INFO:CONSOLE(27)] "Opening transport: websocket  url:https://stream305.forexpros.com:443/echo/200/4vx_sils  RTO:2820", source: https://cdnjs.cloudflare.com/ajax/libs/sockjs-client/0.3.4/sockjs.min.js (27)
+[0107/072144.171:INFO:CONSOLE(4019)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/15c06292/jsbin/desktop_polymer.vflset/desktop_polymer.js (4019)
+[0107/072145.017:INFO:CONSOLE(58)] "open-fx", source: https://streamjs.investing.com/tools/fxindex2.js (58)
+[0107/072145.017:INFO:CONSOLE(62)] "event-eu-441472:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072145.018:INFO:CONSOLE(62)] "event-eu-442575:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072145.018:INFO:CONSOLE(62)] "event-eu-443029:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072145.018:INFO:CONSOLE(62)] "event-eu-442579:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072145.018:INFO:CONSOLE(62)] "event-eu-442628:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072145.018:INFO:CONSOLE(62)] "event-eu-442636:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072145.018:INFO:CONSOLE(62)] "event-eu-442629:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072145.018:INFO:CONSOLE(62)] "event-eu-442637:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072145.019:INFO:CONSOLE(62)] "event-eu-442626:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072145.019:INFO:CONSOLE(62)] "event-eu-442635:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072145.019:INFO:CONSOLE(62)] "event-eu-443653:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072145.019:INFO:CONSOLE(62)] "event-eu-443654:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072145.019:INFO:CONSOLE(62)] "event-eu-443317:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072145.019:INFO:CONSOLE(62)] "event-eu-443318:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072145.019:INFO:CONSOLE(62)] "event-eu-443471:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072145.019:INFO:CONSOLE(62)] "event-eu-443469:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072145.020:INFO:CONSOLE(62)] "event-eu-443461:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072145.020:INFO:CONSOLE(62)] "event-eu-443459:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072145.020:INFO:CONSOLE(62)] "event-eu-443462:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072145.020:INFO:CONSOLE(62)] "event-eu-443466:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072147.962:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/c/BMCNEWStv (0)
+[0107/072148.029:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/072151.266:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/072154.509:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/072157.744:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/072200.988:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/072201.712:INFO:CONSOLE(1403)] "curTime Fri Jan 07 2022 07:22:00 GMT-0300 (GMT-03:00)timeZoneCurDate Fri Jan 07 2022 10:22:00 GMT-0300 (GMT-03:00) offset 10800000", source: https://sslecal2.forexprostools.com/view/ecaltool_v2.js (1403)
+[0107/072204.224:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/072207.465:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/072210.703:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/072213.934:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/072217.173:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/072604.468:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803781 [6,5]
+[0107/072604.753:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803781 [6,5]
+[0107/072604.781:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/' in a frame because it set 'X-Frame-Options' to 'deny'.", source: chrome-error://chromewebdata/ (0)
+[0107/072604.781:INFO:CONSOLE(4019)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/15c06292/jsbin/desktop_polymer.vflset/desktop_polymer.js (4019)
+[0107/072604.885:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0107/072606.238:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0107/072606.238:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0107/072606.238:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0107/072606.238:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0107/072606.512:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0107/072606.671:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0107/072606.671:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0107/072606.672:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0107/072606.672:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0107/072607.198:INFO:CONSOLE(2)] "stream: https://stream302.forexpros.com:443", source: https://streamjs.investing.com/tools/fxindex2.js (2)
+[0107/072607.637:INFO:CONSOLE(1403)] "curTime Fri Jan 07 2022 07:26:00 GMT-0300 (GMT-03:00)timeZoneCurDate Fri Jan 07 2022 10:26:00 GMT-0300 (GMT-03:00) offset 10800000", source: https://sslecal2.forexprostools.com/view/ecaltool_v2.js (1403)
+[0107/072608.754:INFO:CONSOLE(27)] "Opening transport: websocket  url:https://stream302.forexpros.com:443/echo/466/vbycxcjr  RTO:4662", source: https://cdnjs.cloudflare.com/ajax/libs/sockjs-client/0.3.4/sockjs.min.js (27)
+[0107/072608.928:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/c/CNNbrasil (0)
+[0107/072609.680:INFO:CONSOLE(58)] "open-fx", source: https://streamjs.investing.com/tools/fxindex2.js (58)
+[0107/072609.680:INFO:CONSOLE(62)] "event-eu-441472:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072609.681:INFO:CONSOLE(62)] "event-eu-442575:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072609.682:INFO:CONSOLE(62)] "event-eu-443029:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072609.683:INFO:CONSOLE(62)] "event-eu-442579:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072609.683:INFO:CONSOLE(62)] "event-eu-442628:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072609.683:INFO:CONSOLE(62)] "event-eu-442636:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072609.684:INFO:CONSOLE(62)] "event-eu-442629:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072609.684:INFO:CONSOLE(62)] "event-eu-442637:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072609.685:INFO:CONSOLE(62)] "event-eu-442626:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072609.685:INFO:CONSOLE(62)] "event-eu-442635:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072609.685:INFO:CONSOLE(62)] "event-eu-443653:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072609.686:INFO:CONSOLE(62)] "event-eu-443654:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072609.686:INFO:CONSOLE(62)] "event-eu-443317:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072609.686:INFO:CONSOLE(62)] "event-eu-443318:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072609.686:INFO:CONSOLE(62)] "event-eu-443471:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072609.686:INFO:CONSOLE(62)] "event-eu-443469:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072609.686:INFO:CONSOLE(62)] "event-eu-443461:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072609.686:INFO:CONSOLE(62)] "event-eu-443459:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072609.687:INFO:CONSOLE(62)] "event-eu-443462:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072609.687:INFO:CONSOLE(62)] "event-eu-443466:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072612.695:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/072615.927:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/072619.164:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/072622.406:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/072624.424:ERROR:command_buffer_proxy_impl.cc(328)] GPU state invalid after WaitForGetOffsetInRange.
+[0107/072812.151:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803781 [6,5]
+[0107/072812.432:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803781 [6,5]
+[0107/072812.460:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/' in a frame because it set 'X-Frame-Options' to 'deny'.", source: chrome-error://chromewebdata/ (0)
+[0107/072812.470:INFO:CONSOLE(4019)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/15c06292/jsbin/desktop_polymer.vflset/desktop_polymer.js (4019)
+[0107/072812.592:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0107/072813.794:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0107/072813.794:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0107/072813.794:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0107/072813.794:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0107/072814.102:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0107/072814.269:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0107/072814.269:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0107/072814.269:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0107/072814.269:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0107/072814.465:WARNING:spdy_session.cc(3501)] Received HEADERS for invalid stream 1
+[0107/072814.605:INFO:CONSOLE(2)] "stream: https://stream302.forexpros.com:443", source: https://streamjs.investing.com/tools/fxindex2.js (2)
+[0107/072814.899:INFO:CONSOLE(4019)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/15c06292/jsbin/desktop_polymer.vflset/desktop_polymer.js (4019)
+[0107/072815.216:INFO:CONSOLE(1403)] "curTime Fri Jan 07 2022 07:28:00 GMT-0300 (GMT-03:00)timeZoneCurDate Fri Jan 07 2022 10:28:00 GMT-0300 (GMT-03:00) offset 10800000", source: https://sslecal2.forexprostools.com/view/ecaltool_v2.js (1403)
+[0107/072815.577:INFO:CONSOLE(27)] "Opening transport: websocket  url:https://stream302.forexpros.com:443/echo/517/uboivqvs  RTO:2892", source: https://cdnjs.cloudflare.com/ajax/libs/sockjs-client/0.3.4/sockjs.min.js (27)
+[0107/072816.515:INFO:CONSOLE(58)] "open-fx", source: https://streamjs.investing.com/tools/fxindex2.js (58)
+[0107/072816.515:INFO:CONSOLE(62)] "event-eu-441472:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072816.516:INFO:CONSOLE(62)] "event-eu-442575:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072816.516:INFO:CONSOLE(62)] "event-eu-443029:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072816.516:INFO:CONSOLE(62)] "event-eu-442579:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072816.516:INFO:CONSOLE(62)] "event-eu-442628:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072816.516:INFO:CONSOLE(62)] "event-eu-442636:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072816.516:INFO:CONSOLE(62)] "event-eu-442629:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072816.516:INFO:CONSOLE(62)] "event-eu-442637:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072816.516:INFO:CONSOLE(62)] "event-eu-442626:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072816.516:INFO:CONSOLE(62)] "event-eu-442635:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072816.516:INFO:CONSOLE(62)] "event-eu-443653:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072816.516:INFO:CONSOLE(62)] "event-eu-443654:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072816.516:INFO:CONSOLE(62)] "event-eu-443317:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072816.517:INFO:CONSOLE(62)] "event-eu-443318:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072816.517:INFO:CONSOLE(62)] "event-eu-443471:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072816.517:INFO:CONSOLE(62)] "event-eu-443469:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072816.517:INFO:CONSOLE(62)] "event-eu-443461:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072816.517:INFO:CONSOLE(62)] "event-eu-443459:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072816.517:INFO:CONSOLE(62)] "event-eu-443462:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072816.517:INFO:CONSOLE(62)] "event-eu-443466:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072816.862:INFO:CONSOLE(4019)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/15c06292/jsbin/desktop_polymer.vflset/desktop_polymer.js (4019)
+[0107/072819.522:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/072820.786:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/channel/UCP391YRAjSOdM_bwievgaZA (0)
+[0107/072822.755:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/072825.996:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/072829.244:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/072832.482:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/072835.724:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/072837.614:INFO:CONSOLE(4019)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/15c06292/jsbin/desktop_polymer.vflset/desktop_polymer.js (4019)
+[0107/072838.969:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/072841.482:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/channel/UCP391YRAjSOdM_bwievgaZA (0)
+[0107/072842.219:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/072845.460:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/072848.695:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/072851.928:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/072852.642:INFO:CONSOLE(4019)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/15c06292/jsbin/desktop_polymer.vflset/desktop_polymer.js (4019)
+[0107/072855.162:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/072855.898:INFO:CONSOLE(4019)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/15c06292/jsbin/desktop_polymer.vflset/desktop_polymer.js (4019)
+[0107/072858.191:INFO:CONSOLE(4019)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/15c06292/jsbin/desktop_polymer.vflset/desktop_polymer.js (4019)
+[0107/072858.401:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/072901.638:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/072902.075:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/channel/UCP391YRAjSOdM_bwievgaZA (0)
+[0107/072902.228:INFO:CONSOLE(1403)] "curTime Fri Jan 07 2022 07:29:00 GMT-0300 (GMT-03:00)timeZoneCurDate Fri Jan 07 2022 10:29:00 GMT-0300 (GMT-03:00) offset 10800000", source: https://sslecal2.forexprostools.com/view/ecaltool_v2.js (1403)
+[0107/072904.882:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/072908.116:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/072916.485:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803781 [6,5]
+[0107/072916.783:WARNING:browser_info.cc(298)] Returning a speculative frame for 25769803781 [6,5]
+[0107/072916.817:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/' in a frame because it set 'X-Frame-Options' to 'deny'.", source: chrome-error://chromewebdata/ (0)
+[0107/072916.818:INFO:CONSOLE(4019)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/15c06292/jsbin/desktop_polymer.vflset/desktop_polymer.js (4019)
+[0107/072916.957:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0107/072918.163:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0107/072918.163:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0107/072918.163:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0107/072918.164:WARNING:browser_info.cc(298)] Returning a speculative frame for 30064771077 [7,5]
+[0107/072918.465:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0107/072918.630:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0107/072918.630:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0107/072918.630:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0107/072918.630:WARNING:browser_info.cc(298)] Returning a speculative frame for 34359738374 [8,6]
+[0107/072919.000:INFO:CONSOLE(2)] "stream: https://stream307.forexpros.com:443", source: https://streamjs.investing.com/tools/fxindex2.js (2)
+[0107/072919.654:INFO:CONSOLE(1403)] "curTime Fri Jan 07 2022 07:29:00 GMT-0300 (GMT-03:00)timeZoneCurDate Fri Jan 07 2022 10:29:00 GMT-0300 (GMT-03:00) offset 10800000", source: https://sslecal2.forexprostools.com/view/ecaltool_v2.js (1403)
+[0107/072920.530:INFO:CONSOLE(27)] "Opening transport: websocket  url:https://stream307.forexpros.com:443/echo/924/4p2nau4y  RTO:4575", source: https://cdnjs.cloudflare.com/ajax/libs/sockjs-client/0.3.4/sockjs.min.js (27)
+[0107/072921.101:INFO:CONSOLE(4019)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/15c06292/jsbin/desktop_polymer.vflset/desktop_polymer.js (4019)
+[0107/072921.479:INFO:CONSOLE(58)] "open-fx", source: https://streamjs.investing.com/tools/fxindex2.js (58)
+[0107/072921.479:INFO:CONSOLE(62)] "event-eu-441472:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072921.480:INFO:CONSOLE(62)] "event-eu-443029:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072921.480:INFO:CONSOLE(62)] "event-eu-442575:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072921.480:INFO:CONSOLE(62)] "event-eu-442579:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072921.480:INFO:CONSOLE(62)] "event-eu-442628:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072921.480:INFO:CONSOLE(62)] "event-eu-442636:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072921.480:INFO:CONSOLE(62)] "event-eu-442629:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072921.480:INFO:CONSOLE(62)] "event-eu-442637:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072921.480:INFO:CONSOLE(62)] "event-eu-442626:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072921.480:INFO:CONSOLE(62)] "event-eu-442635:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072921.480:INFO:CONSOLE(62)] "event-eu-443653:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072921.480:INFO:CONSOLE(62)] "event-eu-443654:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072921.480:INFO:CONSOLE(62)] "event-eu-443317:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072921.480:INFO:CONSOLE(62)] "event-eu-443318:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072921.481:INFO:CONSOLE(62)] "event-eu-443471:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072921.481:INFO:CONSOLE(62)] "event-eu-443469:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072921.481:INFO:CONSOLE(62)] "event-eu-443461:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072921.481:INFO:CONSOLE(62)] "event-eu-443459:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072921.481:INFO:CONSOLE(62)] "event-eu-443462:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072921.481:INFO:CONSOLE(62)] "event-eu-443466:", source: https://streamjs.investing.com/tools/fxindex2.js (62)
+[0107/072924.489:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/072924.962:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/channel/UCP391YRAjSOdM_bwievgaZA (0)
+[0107/072927.731:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/072930.966:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
+[0107/072934.213:INFO:CONSOLE(26)] "heartbeat", source: https://streamjs.investing.com/tools/fxindex2.js (26)
